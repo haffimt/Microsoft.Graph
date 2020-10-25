@@ -1,0 +1,1 @@
+Convertfrom-Json '{"forceChangePasswordNextSignIn":"true","forceChangePasswordNextSignInWithMfa":"false","password": "string"}' -AsHashtable
